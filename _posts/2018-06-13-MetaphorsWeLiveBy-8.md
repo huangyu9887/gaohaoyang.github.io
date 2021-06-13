@@ -4,7 +4,7 @@ title:  "读书笔记 | 我们赖以生存的隐喻 小结"
 date:   2018-06-13
 categories: 成长
 tags: 读书
-author: HYL
+author: 斯晨与禾
 ---
 
 
@@ -59,4 +59,4 @@ author: HYL
 
 ## CHANGELOG
 
-- 20180613 HYL
+- 20180613
