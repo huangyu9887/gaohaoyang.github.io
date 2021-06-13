@@ -4,7 +4,7 @@ title:  "读书笔记 | 我们赖以生存的隐喻-1"
 date:   2018-06-04
 categories: 成长
 tags: 读书
-author: HYL
+author: 斯晨与禾
 ---
 
 隐喻，是我们的概念系统，是我们赖以生存的概念。
@@ -74,4 +74,4 @@ author: HYL
 
 ## CHANGELOG
 
-- 20180604 HYL
+- 20180604
