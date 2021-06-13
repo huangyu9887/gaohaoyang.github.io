@@ -4,7 +4,7 @@ title:  "太极 | 练太极是一种享受 2"
 date:   2018-05-07
 categories: 生活
 tags: 太极
-author: HYL
+author: 斯晨与禾
 ---
 
 陈氏太极拳小架一路，总共74式。
