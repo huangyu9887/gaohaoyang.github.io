@@ -4,7 +4,7 @@ title:  "练太极 | 练太极是一种享受 - 5"
 date:   2018-06-30
 categories: 生活
 tags: 太极
-author: HYL
+author: 斯晨与禾
 ---
 
 微晴的天气，不太热，水上餐厅微风习习。
@@ -83,4 +83,4 @@ author: HYL
 
 ## CHANGELOG
 
-- 20180630 HYL
+- 20180630
