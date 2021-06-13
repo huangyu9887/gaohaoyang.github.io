@@ -4,7 +4,7 @@ title:  "洞见 | 如何平衡做自己喜欢的事情和挣钱工作"
 date:   2018-06-26
 categories: 成长
 tags: 平衡
-author: HYL
+author: 斯晨与禾
 ---
 
 觉得博主Derek Sivers这篇文章挺不错的，翻译出来，告诉自己，也分享给大家。
@@ -126,7 +126,7 @@ author: HYL
 
 ## CHANGELOG
 
-- 20180626 HYL翻译初稿
+- 20180626 翻译初稿
 
 
 
