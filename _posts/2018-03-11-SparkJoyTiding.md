@@ -4,7 +4,7 @@ title:  "电影 | 怦然心动的人生整理魔法"
 date:   2018-03-11
 categories: 电影
 tags: 电影
-author: HYL
+author: 斯晨与禾
 ---
 
 
@@ -73,4 +73,4 @@ author: HYL
 
 # CHANGELOG
 
-- 20180311 HYL 念起且用此法实践
+- 20180311  念起且用此法实践
