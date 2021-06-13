@@ -4,7 +4,7 @@ title:  "好的设计"
 date:   2019-01-14
 categories: 学习
 tags: 设计
-author: 语聆
+author: 斯晨与禾
 ---
 
 
@@ -89,4 +89,4 @@ author: 语聆
 
 # CHANGELOG
 
-- 20190114 语聆
+- 20190114
