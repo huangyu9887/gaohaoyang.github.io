@@ -4,7 +4,7 @@ title:  "美食 | 红茶曲奇"
 date:   2018-06-24
 categories: 生活
 tags: 美食
-author: HYL
+author: 斯晨与禾
 ---
 
 周末花一点点时间做红茶曲奇，获得一个小小的幸福感～～
@@ -46,4 +46,4 @@ author: HYL
 
 ## CHANGELOG
 
-- 20180624 HYL
+- 20180624
