@@ -4,7 +4,7 @@ title:  "美食 | 炒蛏子红薯粉丝"
 date:   2018-06-03
 categories: 生活
 tags: 美食
-author: HYL
+author: 斯晨与禾
 ---
 
 妈妈做的一道极其家常美味的炒蛏子红薯粉丝。
@@ -46,4 +46,4 @@ author: HYL
 
 ## CHANGELOG
 
-- 20180603 HYL
+- 20180603
