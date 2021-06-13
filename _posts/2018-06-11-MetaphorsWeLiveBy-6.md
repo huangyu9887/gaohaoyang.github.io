@@ -4,7 +4,7 @@ title:  "读书笔记 | 我们赖以生存的隐喻-6"
 date:   2018-06-11
 categories: 成长
 tags: 读书
-author: HYL
+author: 斯晨与禾
 ---
 
 
@@ -86,6 +86,7 @@ author: HYL
 ![Trip](https://images.pexels.com/photos/490466/pexels-photo-490466.jpeg?cs=srgb&dl=arizona-asphalt-beautiful-490466.jpg&fm=jpg)
 
 ## 图片来源
-- P
+- Pexels
+
 ## CHANGELOG
-- 21080611 HYL
+- 21080611
