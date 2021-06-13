@@ -4,7 +4,7 @@ title:  "美食 | 戚风蛋糕"
 date:   2018-05-28
 categories: 生活
 tags: 美食
-author: HYL
+author: 斯晨与禾
 ---
 
 今年做了5次戚风蛋糕了，前几次都没发起，扁扁的，难得上上周日像样了一次，赶紧配方写下来啦。
@@ -78,4 +78,4 @@ author: HYL
 
 # CHANGELOG
 
-- 20180528 HYL
+- 20180528
