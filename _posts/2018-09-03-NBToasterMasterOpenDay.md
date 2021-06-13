@@ -10,7 +10,7 @@ categories: 成长
 
 tags: 学习
 
-author: HYL
+author: 斯晨与禾
 
 ---
 
@@ -125,7 +125,7 @@ TI采用当地俱乐部结构，每个俱乐部有20到40个成员。会议每�
 
 ## Change Log
 
-- 20180903 HYL
+- 20180903
 
 
 
