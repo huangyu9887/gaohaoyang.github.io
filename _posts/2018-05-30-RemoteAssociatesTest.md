@@ -4,7 +4,7 @@ title:  "写作 | 远距联想能力"
 date:   2018-05-30
 categories: 成长
 tags: 写作
-author: HYL
+author: 斯晨与禾
 ---
 远距联想测试，英文全称为“Remote Associate Test",维基百科上是这么解释的：
 
@@ -67,4 +67,4 @@ a.师
 
 ## CHANGELOG
 
-- 20180530 HYL
+- 20180530
