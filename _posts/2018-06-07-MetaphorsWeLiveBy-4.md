@@ -4,7 +4,7 @@ title:  "读书笔记 | 我们赖以生存的隐喻-4"
 date:   2018-06-07
 categories: 成长
 tags: 读书
-author: HYL
+author: 斯晨与禾
 ---
 
 ## 实体和物质隐喻
@@ -118,4 +118,4 @@ author: HYL
 
 ## CHANGELOG
 
-- 20180607 HYL
+- 20180607
