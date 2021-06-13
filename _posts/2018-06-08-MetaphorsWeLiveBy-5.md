@@ -4,7 +4,7 @@ title:  "读书笔记 | 我们赖以生存的隐喻-5"
 date:   2018-06-08
 categories: 成长
 tags: 读书
-author: HYL
+author: 斯晨与禾
 ---
 
 昨天晚上 10 点黑莓 Key2 美国纽约发布会，今天早上 10 点黑莓 Key2 中国北京发布会。
@@ -96,4 +96,4 @@ author: HYL
 
 ## CHANGELOG
 
-- 20180608 HYL
+- 20180608
