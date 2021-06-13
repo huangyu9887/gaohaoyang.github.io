@@ -10,7 +10,7 @@ categories: 成长
 
 tags: 学习 生活
 
-author: HYL
+author: 斯晨与禾
 
 ---
 
@@ -75,7 +75,7 @@ author: HYL
 
 ## Change Log
 
-- 20180910 HYL
+- 20180910
 
 
 
