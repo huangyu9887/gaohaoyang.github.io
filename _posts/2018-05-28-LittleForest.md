@@ -4,7 +4,7 @@ title:  "电影 | 小森林"
 date:   2018-05-28
 categories: 电影
 tags: 电影
-author: HYL
+author: 斯晨与禾
 ---
 
 如果说, 你想看一部风光秀美的乡村片，那么小森林我要推荐给你；
@@ -125,4 +125,4 @@ author: HYL
 
 # CHANGELOG
 
-- 20180528 HYL
+- 20180528
