@@ -4,7 +4,7 @@ title:  "编程 | 如何学习JavaScript"
 date:   2018-01-16
 categories: 编程
 tags: 学习编程
-author: HYL
+author: 斯晨与禾
 ---
 
 我提到我最近在学的JavaScript,人们问我怎么学，有什么可推荐的。下面这是我2016年学习的经验和最好的建议。
@@ -79,5 +79,5 @@ author: HYL
 
 ## CHANGELOG
 
-- 20180116 HYL 翻译初稿完成
+- 20180116  初稿
 
