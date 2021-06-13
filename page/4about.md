@@ -24,9 +24,9 @@ type: page
 
 ## 鸣谢
 
-** 感谢某博主的Jekyll主题，感兴趣者请挪步至下方地址
-** 请访问：[https://github.com/Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io)
-** 如对他的主题的建议可以直接在下面留言或者新建一个 [Issue](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues)。
+* 感谢某博主的Jekyll主题，感兴趣者请挪步至下方地址
+* 请访问：[https://github.com/Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io)
+* 如对他的主题的建议可以直接在下面留言或者新建一个 [Issue](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues)。
 
 
 
