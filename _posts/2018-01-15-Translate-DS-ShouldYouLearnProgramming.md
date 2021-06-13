@@ -4,7 +4,7 @@ title:  "编程 | 你应该学习编程吗？是的。"
 date:   2018-01-15
 categories: 编程
 tags: 学习编程
-author: HYL
+author: 斯晨与禾
 ---
 
 # 你应该学习编程吗？是的。
@@ -48,4 +48,4 @@ author: HYL
 
 ## CHANGELOG
 
-- 20180116 HYL 翻译初稿完成
+- 20180116 初稿
